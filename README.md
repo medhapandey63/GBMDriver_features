@@ -28,7 +28,7 @@ Setup: The database must be formatted/indexed for use with your chosen alignment
 * **Mutation Matrices**: `aaindex_square_diagonal_properties.csv`.
 
 ### 5. Disease-Specific Motifs
-* **`BRCA_odds_ratio.xlsx`**: Odds ratio calculations for di- and tri-peptide motifs based on disease-specific datasets.
+* **`GBM_odds_ratio.xlsx`**: Odds ratio calculations for di- and tri-peptide motifs based on disease-specific datasets.
 
 ### 6. Predicted Secondary Structure
 * **NetSurfP-3.0**: Predicted secondary structure for residues (used for classification). [NetSurfP-3.0 Server](https://services.healthtech.dtu.dk/service.php?NetSurfP-3.0).
