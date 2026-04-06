@@ -2,7 +2,7 @@
 
 GBMDriver_features is a sequence-based feature extraction pipeline designed to calculate evolutionary, physicochemical, and motif-based features for protein mutations.
 
-## 🚀 Prerequisites
+## Prerequisites
 
 To use this tool, you must prepare the following data in the `data/` directory:
 
