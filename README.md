@@ -22,6 +22,7 @@ To use this tool, you must prepare the following data in the `data/` directory:
 
 ### 5. Predicted Secondary Structure
 * **NetSurfP-3.0**: Predicted secondary structure for residues (used for classification). [NetSurfP-3.0 Server](https://services.healthtech.dtu.dk/service.php?NetSurfP-3.0).
+*  **NetSurfP Files (`.out`)**
 
 ## 🛠️ Installation
 
