@@ -2,8 +2,4 @@
 __pycache__/
 *.pyc
 
-# Ignore large data files (keep the folder, but not the files)
-data/*.xlsx
-data/*.csv
-data/*.pssm
-data/*.out
+# 
